@@ -15,6 +15,5 @@
 
 > ### 구현 페이지
 + #### 결제창 요청 페이지 : http://localhost:5000/order
-+ #### 인증결과 수신 페이지 :  http://localhost:5000/success
-+ #### 결제중단 수신 페이지 :  http://localhost:5000/close
++ #### 인증결과 수신(승인) 페이지 :  http://localhost:5000/success
 
